@@ -15,7 +15,7 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
 ```
-Your answer...
+Your answer... I would not like to collect customer's private data such as address. It risks exposing it due to employee malpractice or a cyberattack. 
 ```
 
 ## Question 4
@@ -23,7 +23,7 @@ Review the AdventureWorks Schema [here](https://i.stack.imgur.com/LMu4W.gif)
 
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
-Your answer...
+Your answer... AdventurWorks Schema has a very good and visually clear devision between sales, Person, and other fields.In Salesfield they have SalesLastYear which is very useful for running end of year reports. 
 ```
 
 # Criteria
